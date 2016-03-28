@@ -8,7 +8,7 @@ class WebViewer extends Component {
   render() {
     /* beautify ignore:start */
     const titleConfig = {
-      title: 'Profile',
+      title: 'Repo',
       tintColor: '#FFF'
     };
 

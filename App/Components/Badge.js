@@ -1,5 +1,9 @@
 import React, {
-  Component, Text, View, StyleSheet, Image
+  Component,
+  Text,
+  View,
+  StyleSheet,
+  Image
 } from 'react-native';
 
 class Badge extends Component {
